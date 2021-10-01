@@ -18,6 +18,12 @@ def A_star_Traversal(cost, heuristic, start_point, goals):
     path = []
     # TODO
     return path
+def foo
+    print("Only main")
+    n=input();
+    if (n&1):
+        print("odd")
+     
 
 
 def DFS_Traversal(cost, start_point, goals):
